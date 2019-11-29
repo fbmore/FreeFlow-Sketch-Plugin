@@ -5,10 +5,10 @@
 <description>Most recent changes with links to updates.</description>
 <language>en</language>
 <item>
-<title>Version 1.6.6</title>
+<title>Version 1.9.0</title>
 <sparkle:releaseNotesLink> http://free-flow.co </sparkle:releaseNotesLink>
 <pubDate>2019-06-24T00:00:00.000000 +0000</pubDate>
-<enclosure url="https://d1dab1g5p1tug5.cloudfront.net/attachments/de640ee4b292fd53a92a803e368a5eda5f7f4aab/store/c9d5a0a71f5d27cb1680be96c5cb629fd015ef45eb7b2132f3521dbe687e/FreeFlow_1.6.6.sketchplugin.zip" sparkle:shortVersionString="1.6.6" sparkle:version="1.6.6"/>
+<enclosure url="https://d1dab1g5p1tug5.cloudfront.net/attachments/d3006465f28622849627b6fa2e52d8932a553d44/store/e23842d52f0fcf47dc8a88c428c7d2a8d6d4e20f8c828ccaf7199a412494/FreeFlow_1.9.0.zip" sparkle:shortVersionString="1.9.0" sparkle:version="1.9.0"/>
 </item>
 </channel>
 </rss>
