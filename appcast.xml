@@ -1,14 +1,14 @@
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel>
 <title>FreeFlow Suite Changelog</title>
-<link> http://appcast.free-flow.co/</link>
+<link>http://appcast.free-flow.co/</link>
 <description>Most recent changes with links to updates.</description>
 <language>en</language>
 <item>
-<title>Version 1.9.2</title>
+<title>Version 1.9.8</title>
 <sparkle:releaseNotesLink> http://free-flow.co </sparkle:releaseNotesLink>
-<pubDate>2019-06-24T00:00:00.000000 +0000</pubDate>
-<enclosure url="https://d1dab1g5p1tug5.cloudfront.net/attachments/58ae5b69b9f1ec1e43185353102210eeb9add1ef/store/9470252c7c206f697887d771f51cc8df91401e8b7f4ca9bb9f5eb546b84b/FreeFlow_1.9.2.zip" sparkle:shortVersionString="1.9.2" sparkle:version="1.9.2"/>
+<pubDate>2020-01-23T00:00:00.000000 +0000</pubDate>
+<enclosure url="https://d1dab1g5p1tug5.cloudfront.net/attachments/330950d86b3667d89232d8bc49ec5573e063d0ad/store/3ef6165c9b6dfe29a40314f94a46c4a32654ccc450556da1df685097b057/FreeFlow_1.9.8.zip" sparkle:shortVersionString="1.9.8" sparkle:version="1.9.8"/>
 </item>
 </channel>
 </rss>
