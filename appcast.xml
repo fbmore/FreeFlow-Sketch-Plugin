@@ -2,13 +2,13 @@
 <channel>
 <title>FreeFlow Suite Changelog</title>
 <link>http://appcast.free-flow.co/</link>
-<description>NEW: replace symbols and styles with their siblings.</description>
+<description>NEW: Batch create colors, styles and symbols and replace them with their siblings. Dedicated to 🐯</description>
 <language>en</language>
 <item>
 <title>Version 1.9.9</title>
 <sparkle:releaseNotesLink> http://free-flow.co </sparkle:releaseNotesLink>
-<pubDate>2020-02-8T00:00:00.000000 +0000</pubDate>
-<enclosure url="https://d1dab1g5p1tug5.cloudfront.net/attachments/55d13b5d45d52b15d88386d6711f6ff1a046853a/store/22952f05eed9266053820f9b070c360c020367658f0acaae67e4ce0ece25/FreeFlow_1.9.9.zip" sparkle:shortVersionString="1.9.9" sparkle:version="1.9.9"/>
+<pubDate>2020-03-11T00:00:00.000000 +0000</pubDate>
+<enclosure url="https://d1dab1g5p1tug5.cloudfront.net/attachments/dd1fea2fe5200ece49b9dcb21a5a3ce9af1bf916/store/59049213930d8071bdec279169b9960924723fd34d7c04938b5825c1218a/FreeFlow_1.9.9.zip" sparkle:shortVersionString="1.9.9" sparkle:version="1.9.9"/>
 </item>
 </channel>
 </rss>
