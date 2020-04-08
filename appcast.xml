@@ -2,13 +2,13 @@
 <channel>
 <title>FreeFlow Changelog</title>
 <link>http://appcast.free-flow.co/</link>
-<description>NEW! "AutoLayout" (Beta) set spacing between elements or within groups. Dedicated to 🐯</description>
+<description>NEW! "AutoLayout" (Beta) set spacing between elements or within groups. Added ability to position elements based on the distance from right and bottom edges of the parent group or artboard. Dedicated to 🐯</description>
 <language>en</language>
 <item>
-<title>Version 2.0.1</title>
+<title>Version 2.0.2</title>
 <sparkle:releaseNotesLink>http://free-flow.co</sparkle:releaseNotesLink>
 <pubDate>2020-04-04T00:00:00.000000 +0000</pubDate>
-<enclosure url="https://d1dab1g5p1tug5.cloudfront.net/attachments/723b94271c0be43071908d95a20090be6ffaa6bd/store/02cf06478969806d4f4d9c1e93a2472b373e5db103aa4330619694f76b49/FreeFlow_2.0.1.sketchplugin.zip" sparkle:shortVersionString="2.0.1" sparkle:version="2.0.1"/>
+<enclosure url="https://d1dab1g5p1tug5.cloudfront.net/attachments/9fc26c764a017e5a955dd95229fc1ceaf3be0683/store/3e5c7d36cb7cd5cd88e3375b9deab317d92961ef21b5079859545afec75a/FreeFlow_2.0.2.sketchplugin.zip" sparkle:shortVersionString="2.0.2" sparkle:version="2.0.2"/>
 </item>
 </channel>
 </rss>
