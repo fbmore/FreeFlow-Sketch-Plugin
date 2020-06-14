@@ -2,13 +2,13 @@
 <channel>
 <title>FreeFlow Changelog</title>
 <link>http://appcast.free-flow.co/</link>
-<description>NEW! Added ability to export artboards or selected layers to an HTML slideshow. View them in fullscreen by pressing "F". Dedicated to 🐯</description>
+<description>NEW! Added ability to export selected artboards to an SVG Animation. Dedicated to 🐯</description>
 <language>en</language>
 <item>
-<title>Version 2.5.1</title>
+<title>Version 2.6.0</title>
 <sparkle:releaseNotesLink>http://free-flow.co</sparkle:releaseNotesLink>
-<pubDate>2020-06-14T00:00:00.000000 +0000</pubDate>
-<enclosure url="https://d1dab1g5p1tug5.cloudfront.net/attachments/5ab319ce3940e619e2ffd5f97e9c079cf50582c7/store/1b7c33dd6c42ba8abd6d11899f590db42d02dfc7005bd328466455697fed/FreeFlow_2.5.1.sketchplugin.zip" sparkle:shortVersionString="2.5.1" sparkle:version="2.5.1"/>
+<pubDate>2020-06-15T00:00:00.000000 +0000</pubDate>
+<enclosure url="https://d1dab1g5p1tug5.cloudfront.net/attachments/1f12522a55e3c2d931393a475ac3f49ac638700a/store/0c8135a8a53eb112c030565a231127b871d5ced07b62a6a9a4e65bca8faf/FreeFlow_2.6.0.sketchplugin.zip" sparkle:shortVersionString="2.6.0" sparkle:version="2.6.0"/>
 </item>
 </channel>
 </rss>
