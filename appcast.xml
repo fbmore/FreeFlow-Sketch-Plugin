@@ -2,13 +2,13 @@
 <channel>
 <title>FreeFlow Changelog</title>
 <link>http://appcast.free-flow.co/</link>
-<description>NEW! Added ability to create Typographic Scales. Dedicated to 🐯</description>
+<description>NEW! Smart Sizing & Pinning and Duplicate in any Direction. Dedicated to 🐯</description>
 <language>en</language>
 <item>
-<title>Version 2.9.0</title>
+<title>Version 2.9.3</title>
 <sparkle:releaseNotesLink>http://free-flow.co</sparkle:releaseNotesLink>
-<pubDate>2020-06-29T00:00:00.000000 +0000</pubDate>
-<enclosure url="https://d1dab1g5p1tug5.cloudfront.net/attachments/994aa45aee962fd833987c776c7162701dabb873/store/85a2efdbd72b8acd28702a6ac2691ac1d45ae153a5d51b90b51b7d985967/FreeFlow_2.9.0.sketchplugin.zip" sparkle:shortVersionString="2.9.0" sparkle:version="2.9.0"/>
+<pubDate>2020-07-9T00:00:00.000000 +0000</pubDate>
+<enclosure url="https://d1dab1g5p1tug5.cloudfront.net/attachments/756118033a894ec106950b2db17c918e3c62e6a4/store/ad117166ecff25d8ab6fd1ab05cbd0c8e4906d94974fc08398c0065a4dea/FreeFlow_2.9.3.sketchplugin.zip" sparkle:shortVersionString="2.9.3" sparkle:version="2.9.3"/>
 </item>
 </channel>
 </rss>
