@@ -3,3 +3,7 @@
 
 
 http://free-flow.co
+
+# FreeFlow (FF) Sketch Assistant
+![](https://github.com/fbmore/FreeFlow-Sketch-Plugin/blob/master/FreeFow%20Assistant%20-%20Large%20Preview-min.png?raw=true)
+
