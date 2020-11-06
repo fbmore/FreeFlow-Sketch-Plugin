@@ -2,13 +2,13 @@
 <channel>
 <title>FreeFlow Changelog</title>
 <link>http://appcast.free-flow.co/</link>
-<description>NEW! Added support for Color Vars to make it easier to migrate your documents. Dedicated to 🐯</description>
+<description>NEW! Added link to the FreeView iOS app and the Stats & Coverage Assistant. Dedicated to 🐯</description>
 <language>en</language>
 <item>
-<title>Version 2.9.8</title>
+<title>Version 2.9.9</title>
 <sparkle:releaseNotesLink>http://free-flow.co</sparkle:releaseNotesLink>
-<pubDate>2020-10-06T00:00:00.000000 +0000</pubDate>
-<enclosure url="https://d1dab1g5p1tug5.cloudfront.net/attachments/d67bc62d3e9868ee2731e590e665f6a77f77e6cd/store/623233ad71e002da75b11482b2b886fd7d51f8d8e6ee5a04ccf05d9cae5e/FreeFlow_2.9.8.sketchplugin.zip" sparkle:shortVersionString="2.9.8" sparkle:version="2.9.8"/>
+<pubDate>2020-11-06T00:00:00.000000 +0000</pubDate>
+<enclosure url="https://d1dab1g5p1tug5.cloudfront.net/attachments/a51ecca05d5c4fcce8991ee190b515bff9023c81/store/80124b8e270bb4c8e0fb1ed5dc87446a0e577a90c12141bdcf564676e775/FreeFlow_2.9.9.sketchplugin.zip" sparkle:shortVersionString="2.9.9" sparkle:version="2.9.9"/>
 </item>
 </channel>
 </rss>
