@@ -4,7 +4,6 @@ FreeFlow is a plugin for Sketch to boost your daily productivity, so you can foc
 👉 Download FreeFlow Sketch Plugin:
 http://free-flow.co
 
-
 # FreeFlow allows you to quickly:
 👉  Copy & Paste Any Layer to Multiple Artboards or Groups
 👉  Copy & Paste multiple Symbol Overrides (from Instance to Instance)
