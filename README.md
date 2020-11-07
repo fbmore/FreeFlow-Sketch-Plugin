@@ -1,10 +1,13 @@
-# FreeFlow (FF) Sketch Plugin
-FreeFlow is a plugin for Sketch to boost your daily productivity, so you can focus on building better products and make your life a little happier 🌈
+# 🌈 FreeFlow (FF) Sketch Plugin
+FreeFlow is a plugin for Sketch to boost your daily productivity, so you can focus on building better products and make your life a little happier
 
 👉 Download FreeFlow Sketch Plugin:
 http://free-flow.co
 
-# FreeFlow allows you to quickly:
+
+
+# Copy & Paste lots of things!
+
 👉  Copy & Paste Any Layer to Multiple Artboards or Groups
 
 👉  Copy & Paste multiple Symbol Overrides (from Instance to Instance)
@@ -15,14 +18,25 @@ http://free-flow.co
 
 
 
-Do lots of things in batches!
+# Select things really fast!
+
+👉  Select Similar Elements to the selected one
+
+👉  Select Similar Elements to the reference one
+
+👉  Select Elements from the previously saved selections
+
+
+
+# Do lots of things in batches!
 
 👉  Create Symbols, Text & Layer Styles as well as Color Vars given selected layers. 
 
 👉  Rename Text Layers and Text Styles based on their values.
 
 
-Position things efficiently!
+
+# Position things efficiently!
 
 👉  "AutoLayout" (Beta) set spacing between elements or within groups
 
@@ -31,7 +45,8 @@ Position things efficiently!
 👉  Smart Sizing & Pinning: Set Selected Layers to Full Width or Height and Auto Pin Them (This is a taste of FreeFlow Autopilot – coming soon) 
 
 
-Quickly duplicate or generate things from Data!
+
+# Quickly duplicate or generate things from Data!
 
 👉  Duplicate Selected Layers in any Direction: Right, Down, Top and Left
 
@@ -44,7 +59,8 @@ Quickly duplicate or generate things from Data!
 👉  Populate and update image fills from a source element (great for flows so you don't have to create symbols of entire artboards)
 
 
-Export things! 
+
+# Export things! 
 
 👉  Create a Style Guide of all document Colors, Text & Layer Styles (Beta) (The styleguide includes CSS values)
  
@@ -54,14 +70,18 @@ Export things!
 
 
 
-👉 Download FreeFlow Sketch Plugin:
+# 👉 Download FreeFlow Sketch Plugin:
 http://free-flow.co
+
+
 
 
 Also...
 
 
-Using Sketch 68+? You can also install these FreeFlow Assistants:
+
+
+# Using Sketch 68+? You can also install these FreeFlow Assistants:
 
 👉  Document Stats & Coverage
 
@@ -78,5 +98,9 @@ https://FreeAndWilling.com/fbmore/freeview
 # FreeFlow (FF) Sketch Assistant
 ![](https://github.com/fbmore/FreeFlow-Sketch-Plugin/blob/master/FreeFow%20Assistant%20-%20Large%20Preview-min.png?raw=true)
 
-Made with ♥️ in NY by Francesco Bertocci
+
+
+Made with ♥️ in NY by [Francesco Bertocci](https://freeandwilling.com/fbmore)
+
+
 
