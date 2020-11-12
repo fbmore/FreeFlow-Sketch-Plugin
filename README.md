@@ -1,8 +1,9 @@
 # 🌈 FreeFlow (FF) Sketch Plugin
 FreeFlow is a plugin for Sketch to boost your daily productivity, so you can focus on building better products and make your life a little happier
 
+
 👉 Download FreeFlow Sketch Plugin:
-http://free-flow.co
+ [free-flow.co](http://free-flow.co)
 
 
 
@@ -71,7 +72,7 @@ http://free-flow.co
 
 
 # 👉 Download FreeFlow Sketch Plugin:
-http://free-flow.co
+[free-flow.co](http://free-flow.co)
 
 
 
@@ -87,12 +88,13 @@ Also...
 
 👉  Artboards Status & Navigator
 
-https://www.sketch.com/extensions/assistants/
+[www.sketch.com/extensions/assistants/](https://www.sketch.com/extensions/assistants/)
 
 
 
 👉 Download the FreeView iOS app that allows you to see any cloud prototype in fullscreen:
-https://FreeAndWilling.com/fbmore/freeview
+
+[FreeAndWilling.com/fbmore/freeview](https://FreeAndWilling.com/fbmore/freeview)
 
 
 # FreeFlow (FF) Sketch Assistant
