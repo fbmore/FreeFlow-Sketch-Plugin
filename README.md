@@ -2,8 +2,7 @@
 FreeFlow is a plugin for Sketch to boost your daily productivity, so you can focus on building better products and make your life a little happier
 
 
-👉 Download FreeFlow Sketch Plugin:
- [free-flow.co](http://free-flow.co)
+👉 [Download FreeFlow Sketch Plugin from free-flow.co]A(https://freeandwilling.com/fbmore/FreeFlow-Sketch-Plugin-Download)
 
 
 
