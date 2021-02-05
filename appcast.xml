@@ -2,13 +2,13 @@
 <channel>
 <title>FreeFlow Changelog</title>
 <link>http://appcast.free-flow.co/</link>
-<description>NEW! Added link to the FreeView iOS app and the Stats & Coverage Assistant. Dedicated to 🐯</description>
+<description>NEW! Added lots of things! Improved color scale generation and added the ability to export a selection to a new page – great for flows. Dedicated to 🐯</description>
 <language>en</language>
 <item>
-<title>Version 2.9.9</title>
+<title>Version 2.9.9.1</title>
 <sparkle:releaseNotesLink>http://free-flow.co</sparkle:releaseNotesLink>
-<pubDate>2020-11-06T00:00:00.000000 +0000</pubDate>
-<enclosure url="https://d1dab1g5p1tug5.cloudfront.net/attachments/e0655251ce5ed9e351bfb5f3933859ffc686f6b7/store/975ee9f946851facd9e151234a192d15278763569474debbe98e6e5435e1/FreeFlow_2.9.9.sketchplugin.zip" sparkle:shortVersionString="2.9.9" sparkle:version="2.9.9"/>
+<pubDate>2021-02-05T00:00:00.000000 +0000</pubDate>
+<enclosure url="https://d1dab1g5p1tug5.cloudfront.net/attachments/156f82e59886414511562829d9fc114f35899bd0/store/438618c9315174f200a28566b218a7232e36deb6d1ea7e9ff35c765474a6/FreeFlow_2.9.9.1.sketchplugin.zip" sparkle:shortVersionString="2.9.9.1" sparkle:version="2.9.9.1"/>
 </item>
 </channel>
 </rss>
