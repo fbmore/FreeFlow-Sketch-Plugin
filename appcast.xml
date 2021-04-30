@@ -5,10 +5,10 @@
 <description>NEW! Added lots of things! Improved color scale generation and added the ability to export a selection to a new page – great for flows. Dedicated to 🐯</description>
 <language>en</language>
 <item>
-<title>Version 2.9.9.1</title>
+<title>Version 2.9.9.2</title>
 <sparkle:releaseNotesLink>http://free-flow.co</sparkle:releaseNotesLink>
 <pubDate>2021-02-05T00:00:00.000000 +0000</pubDate>
-<enclosure url="https://d1dab1g5p1tug5.cloudfront.net/attachments/156f82e59886414511562829d9fc114f35899bd0/store/438618c9315174f200a28566b218a7232e36deb6d1ea7e9ff35c765474a6/FreeFlow_2.9.9.1.sketchplugin.zip" sparkle:shortVersionString="2.9.9.1" sparkle:version="2.9.9.1"/>
+<enclosure url="https://d1dab1g5p1tug5.cloudfront.net/attachments/4808ae94bc40a23b660093ba3ddfd4e8d1007016/store/ca306b6c77f4c4471635beda53e9fe7dcc821cb68c9e6531db874669f764/FreeFlow_2.9.9.2.sketchplugin.zip" sparkle:shortVersionString="2.9.9.2" sparkle:version="2.9.9.2"/>
 </item>
 </channel>
 </rss>
